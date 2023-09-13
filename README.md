@@ -23,9 +23,8 @@ Here are some of the projects I've worked on:
 
 ## Contact
 
-- Email: [youremail@example.com]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
+- Email: sarathofficial920@gmail.com
+- LinkedIn: Sarath A
 
 ## Fun Fact
 
