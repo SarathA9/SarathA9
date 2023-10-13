@@ -15,8 +15,8 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
 
 Here are some of the projects I've worked on:
 
-## https://saratha9.github.io/Pranavam/
-### (https://saratha9.github.io/Move-It/)
+#### https://saratha9.github.io/Pranavam/
+#### (https://saratha9.github.io/Move-It/)
 ### https://saratha9.github.io/Dice-Game/
 ### https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/
 ### https://saratha9.github.io/Dev.com/
