@@ -1,8 +1,8 @@
 # Sarath A
 
-About Me
 ![giphy1](https://github.com/SarathA9/SarathA9/assets/135338134/7511fdc3-1384-4079-8927-9c92f96d727c)
 
+## About Me
 I am a student at SDM College Ujire pursuing my Bachelor of Computer Application. My primary interest lies in web development, and I have experience working on various web projects.
 
 ## Skills
@@ -18,8 +18,8 @@ Here are some of the projects I've worked on:
 - [Project 1]: [https://saratha9.github.io/Pranavam/]
 - [Project 2]: (https://saratha9.github.io/Move-It/)
 - [Project 3]: https://saratha9.github.io/Dice-Game/
-- [Project 3]: https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/
-- [Project 3]: https://saratha9.github.io/Dev.com/
+- [Project 4]: https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/
+- [Project 5]: https://saratha9.github.io/Dev.com/
 
 
 ## Contact
@@ -30,3 +30,4 @@ Here are some of the projects I've worked on:
 ## Fun Fact
 
 Can you find the center of the DIV?????
+
