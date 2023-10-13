@@ -1,6 +1,6 @@
 # Sarath A
 
-![Alt Text](path_to_your_gif.gif)
+![Alt Text](/assests/giphy.gif)
 
 
 ## About Me
