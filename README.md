@@ -1,6 +1,6 @@
 # Sarath A
 
-## About Me
+# About Me
 
 I am a student at SDM College Ujire pursuing my Bachelor of Computer Application. My primary interest lies in web development, and I have experience working on various web projects.
 
