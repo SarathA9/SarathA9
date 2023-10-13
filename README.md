@@ -1,6 +1,7 @@
 # Sarath A
 
-![giphy1](https://github.com/SarathA9/SarathA9/assets/135338134/7511fdc3-1384-4079-8927-9c92f96d727c)
+![Alt Text](path_to_your_gif.gif)
+
 
 ## About Me
 I am a student at SDM College Ujire pursuing my Bachelor of Computer Application. My primary interest lies in web development, and I have experience working on various web projects.
@@ -16,10 +17,10 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
 Here are some of the projects I've worked on:
 
 #### https://saratha9.github.io/Pranavam/
-#### (https://saratha9.github.io/Move-It/)
-### https://saratha9.github.io/Dice-Game/
-### https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/
-### https://saratha9.github.io/Dev.com/
+#### https://saratha9.github.io/Move-It/
+#### https://saratha9.github.io/Dice-Game/
+#### https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/
+#### https://saratha9.github.io/Dev.com/
 
 
 ## Contact
