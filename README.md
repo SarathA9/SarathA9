@@ -1,7 +1,7 @@
 # Sarath A
 Portfolio Website https://saratha9.github.io/Sar_Folio/
 
-<p align="center">
+<p align="left">
   <img src="/assests/giphy.gif" alt="Alt Text" height="200">
   <br>
 </p>
@@ -20,17 +20,17 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
 
 Here are some of the projects I've worked on:
 
-#### https://saratha9.github.io/Pranavam/
-#### https://saratha9.github.io/Move-It/
-#### https://saratha9.github.io/Dice-Game/
-#### https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/
-#### https://saratha9.github.io/Dev.com/
+- [Pranavam](https://saratha9.github.io/Pranavam/)
+- [Ecommerce](https://saratha9.github.io/Move-It/)
+- [Diece Game](https://saratha9.github.io/Dice-Game/)
+- [Drum Game](https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/)
+- [Dev.com](https://saratha9.github.io/Dev.com/)
 
 
 ## Contact
 
 - Email: sarathofficial920@gmail.com
-- LinkedIn: Sarath A
+- LinkedIn: [Sarath A](https://www.linkedin.com/in/sarath-adukkadukkam)
 
 ## Fun Fact
 
