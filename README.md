@@ -3,12 +3,14 @@ Portfolio Website https://saratha9.github.io/Sar_Folio/
 
 <p align="left">
   <img src="/assests/giphy.gif" alt="Alt Text" height="200">
-  <br>
 </p>
 
 
-## About Me
+## Who am I🤓? 👇
 I am a student at SDM College Ujire pursuing my Bachelor of Computer Application. My primary interest lies in web development, and I have experience working on various web projects.
+<p align="left">
+  <img src="/assests/giphy1.gif" alt="Alt Text" height="500">
+</p>
 
 ## Skills
 
