@@ -1,9 +1,10 @@
 # Sarath A
-Portfolio Website https://saratha9.github.io/Sar_Folio/
 
 <p align="left">
   <img src="/assests/giphy.gif" alt="Alt Text" height="200">
 </p>
+
+[Portfolio Website](https://saratha9.github.io/Sar_Folio/)
 
 
 ## Who am I🤓? 👇
