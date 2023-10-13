@@ -1,6 +1,7 @@
 # Sarath A
 <p align="center">
   <img src="/assests/giphy.gif" alt="Alt Text" width="300" height="300">
+  <p>Hey there :) </p>
 </p>
 
 
