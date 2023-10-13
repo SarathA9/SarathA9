@@ -1,6 +1,7 @@
 # Sarath A
 
 About Me
+![giphy1](https://github.com/SarathA9/SarathA9/assets/135338134/7511fdc3-1384-4079-8927-9c92f96d727c)
 
 I am a student at SDM College Ujire pursuing my Bachelor of Computer Application. My primary interest lies in web development, and I have experience working on various web projects.
 
