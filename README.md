@@ -34,7 +34,5 @@ Here are some of the projects I've worked on:
 - Email: sarathofficial920@gmail.com
 - LinkedIn: [Sarath A](https://www.linkedin.com/in/sarath-adukkadukkam)
 
-## Fun Fact
 
-Can you find the center of the DIV?????
 
