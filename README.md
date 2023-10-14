@@ -1,6 +1,6 @@
 # Sarath A
 
-<p align="center">
+<p align="left">
   <img src="/assests/giphy.gif" alt="Alt Text" height="200">
 </p>
 
