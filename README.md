@@ -15,8 +15,8 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
 
 ## Skills
 
-- Languages: Java, Python, .NET, C#, JavaScript, R programming, C
-- Web Technologies: HTML, CSS, React.js, Node JS, Express JS
+- Languages: Java, Python, .NET, C#, JavaScript, R programming, C. 
+- Web Technologies: HTML, CSS, React.js, Node JS, Express JS. 
 - Other: Data Structure, Algorithm Designing, Graphical Designing.
 
 ## Projects
