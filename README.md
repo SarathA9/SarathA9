@@ -18,7 +18,7 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
 - Web Technologies: HTML, CSS, React.js, Node JS, Express JS. 
 - Other: Data Structure, Algorithm Designing, Graphical Designing. 
 
-## Projects
+## Projects 
 
 Here are some of the projects I've worked on:
 
