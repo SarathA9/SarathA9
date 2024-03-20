@@ -3,7 +3,7 @@
   <img src="/assests/giphy.gif" alt="Alt Text" height="200">
 </p>
 
-[Portfolio Website](https://sarathofficial.vercel.app/)
+[Portfolio Website](https://sarathofficial.vercel.app)
 
 
 ## Who am I🤓?👇
