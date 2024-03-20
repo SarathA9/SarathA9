@@ -14,9 +14,27 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
 
 ## Skills
 
-- Languages: Java, Python, .NET, C#, JavaScript, R programming, C. 
-- Web Technologies: HTML, CSS, React.js, Node JS, Express JS. 
-- Other: Data Structure, Algorithm Designing, Graphical Designing. 
+- Languages: 
+  - Java ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+  - Python ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png)
+  - .NET ![.NET Icon](https://img.icons8.com/color/48/000000/dot-net.png)
+  - C# ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+  - JavaScript ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
+  - R programming ![R Programming Icon](https://img.icons8.com/color/48/000000/r.png)
+  - C ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
+- Web Technologies: 
+  - HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
+  - CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+  - React.js ![React.js Icon](https://img.icons8.com/office/48/000000/react.png)
+  - Node.js ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)
+  - Express.js ![Express.js Icon](https://img.icons8.com/ios/50/000000/express.png)
+- Other: 
+  - Data Structure ![Data Structure Icon](https://img.icons8.com/dusk/64/000000/stack-of-files.png)
+  - Algorithm Designing ![Algorithm Designing Icon](https://img.icons8.com/plasticine/100/000000/running-maze.png)
+  - Graphical Designing ![Graphical Designing Icon](https://img.icons8.com/fluency/48/000000/graphics-design.png)
+- MERN Stack:
+  ![MERN Stack Icon](https://img.icons8.com/color/48/000000/mongodb.png) ![MERN Stack Icon](https://img.icons8.com/color/48/000000/react-native.png) ![MERN Stack Icon](https://img.icons8.com/color/48/000000/nodejs.png) ![MERN Stack Icon](https://img.icons8.com/color/48/000000/express.png)
+
 
 ## Projects 
 
