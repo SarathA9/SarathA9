@@ -14,7 +14,6 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
 
 ## Skills
 
-- Languages: 
   ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
   ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png) 
   ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) 
@@ -25,10 +24,9 @@ I am a student at SDM College Ujire pursuing my Bachelor of Computer Application
   ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
   ![React.js Icon](https://img.icons8.com/office/48/000000/react.png) 
   ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) 
-  ![Express.js Icon](https://img.icons8.com/ios/50/000000/express.png)
   ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-  ![Git Icon](https://img.icons8.com/color/48/000000/git.png) Git
-  ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+  ![Git Icon](https://img.icons8.com/color/48/000000/git.png) 
+  ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) 
 
 
 - Other: 
