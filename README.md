@@ -1,4 +1,4 @@
-## Hi ! My name is Sarath and I'm a CS Student, from Kerala
+## Hey there, I'm Sarath a Comuter Science student from Kerala
 
 ###
 
