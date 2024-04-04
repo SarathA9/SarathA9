@@ -1,4 +1,6 @@
-##                                                                             Hi ! My name is Sarath and I'm a CS Student, from Kerala
+## 
+<div align="center">Hi ! My name is Sarath and I'm a CS Student, from Kerala
+</div>
 ###
 
 <div align="center">
