@@ -1,4 +1,4 @@
-<div align="center">## Hi ! My name is Sarath and I'm a CS Student, from Kerala
+<div align="center"><h1>Hi ! My name is Sarath and I'm a CS Student, from Kerala</h1>
 </div>
 ###
 
