@@ -1,54 +1,49 @@
-# Sarath A
-<p align="left">
-  <img src="/assests/giphy.gif" alt="Alt Text" height="200">
-</p>
+<h2 align="left">Hi 👋! My name is Sarath and I'm a CS Student, from ....</h2>
 
-[Portfolio Website](https://sarathofficial.vercel.app)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Who am I🤓?👇
-I am a student at SDM College Ujire pursuing my Bachelor of Computer Application. My primary interest lies in web development, and I have experience working on various web projects.
-<p align="left">
-  <img src="/assests/giphy 2.gif" alt="Alt Text" width="650" height="350"> 
-</p>
+###
 
-## Skills
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
-  ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png) 
-  ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) 
-  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png) 
-  ![R Programming Icon](https://img.icons8.com/color/48/000000/r.png) 
-  ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
-  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) 
-  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
-  ![React.js Icon](https://img.icons8.com/office/48/000000/react.png) 
-  ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) 
-  ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-  ![Git Icon](https://img.icons8.com/color/48/000000/git.png) 
-  ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- Other: 
-  Data Structure, Algorithm Designing, Graphical Designing
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
 
-## Projects 
+<br clear="both">
 
-Here are some of the projects I've worked on:
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-- [Pranavam](https://saratha9.github.io/Pranavam/)
-- [Ecommerce](https://saratha9.github.io/Move-It/)
-- [Diece Game](https://saratha9.github.io/Dice-Game/)
-- [Drum Game](https://saratha9.github.io/BeatMaster-Drum-Kit-Challenge/)
-- [Dev.com](https://saratha9.github.io/Dev.com/)
-
-
-## Contact
-
-- Email: sarathofficial920@gmail.com
-- LinkedIn: [Sarath A](https://www.linkedin.com/in/sarath-adukkadukkam)
-
-
-
+###
