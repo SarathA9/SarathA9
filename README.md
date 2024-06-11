@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" height="200" src="https://github.com/SarathA9/SarathA9/blob/main/assests/giphy.gif" alt="Animated GIF" /> 
 </div> 
-<div align="center"><h1>Hi ! My name is Sarath and I'm a CS Student, from Kerala</h1> 
+<div align="center"><h1>Hi ! My name is Sarath and I'm a CS Student, from Kerala</h1>  
 </div>
    
 <div align="center">  
