@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB Icon" />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP Icon" /> 
 </div>
-
+  
 <div align="center">  
   <hr>
   <a href="https://www.instagram.com/_sarath01" target="_blank">
