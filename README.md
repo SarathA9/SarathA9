@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://github.com/SarathA9/SarathA9/blob/main/assests/giphy.gif" alt="Animated GIF" height="200" />
 </div>
 
@@ -57,3 +57,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SarathA9&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
+](https://github.com/SarathA9)
